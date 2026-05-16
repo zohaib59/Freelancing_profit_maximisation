@@ -1,0 +1,36 @@
+Retail Revenue Maximization via AI-Driven Promo Campaigns
+
+## 📊 Problem Statement
+Retail stores in India face challenges with:
+- High churn and low repeat purchase rates
+- Inefficient promotions that fail to target the right customers
+- Inventory misalignment with demand
+
+This project builds a **universal promo campaign engine** that automatically detects dataset columns, segments customers, 
+and generates **personalized campaigns** to maximize engagement and revenue.
+🚀 Just launched a **Universal Promo Campaign Engine** for Indian Retail Stores!  
+
+Imagine a system that:
+✅ Auto-detects dataset columns (no manual effort)  
+✅ Segments customers by age, city, spend, and behavior  
+✅ Generates **personalized promo campaigns** (loyalty, bundles, festival offers)  
+✅ Simulates ROI uplift (+20% revenue boost)  
+✅ Visualizes insights with dashboards  
+
+💡 Why it matters?  
+Retailers often waste money on generic discounts. My engine creates **targeted campaigns** that actually drive 
+engagement and maximize revenue.  
+
+📊 Example:  
+Metro 26–35 Male → Premium Loyalty Campaign  
+Tier-2 Families → Festival Bundles  
+High-frequency shoppers → Reward Points  
+
+
+## ✨ Features
+- **Automatic column detection** → No manual effort, works across datasets
+- **Customer segmentation** → Age, city tier, gender, spend, frequency
+- **Promo campaign recommendations** → Loyalty, bundle, frequency, festival, discount
+- **ROI simulation** → Baseline vs promo-driven uplift
+- **Visualization dashboards** → Response rates, spend distribution, campaign impact
+
